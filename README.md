@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Abd Elaziz Ahmed 👋
 
-<!--
-**shhm311-afk/shhm311-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst
+Passionate about converting complex data into actionable insights and interactive visual dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+* **Data Analysis & Visualization:** Power BI, Looker Studio, Tableau, Excel
+* **Programming & Query Languages:** Python, SQL
+* **Platforms & Tools:** Kaggle, GitHub
+
+---
+
+### 🔗 Connect with Me
+* **LinkedIn:** [Abd Elaziz Ahmed](https://www.linkedin.com/in/abd-elaziz-ahmed-8310b540b)
